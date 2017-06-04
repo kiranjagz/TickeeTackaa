@@ -1,0 +1,3 @@
+# TickeeTackaa
+X and Oats console game. Need to add some stuff here.
+Will add some stuff here for state managment. One day that is.....
