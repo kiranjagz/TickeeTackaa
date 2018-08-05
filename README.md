@@ -1,3 +1,2 @@
 # TickeeTackaa
-X & 0 console game. Need to add some stuff here.
-Will add some stuff here for state managment. One day that is.....
+X & 0 console game. Very basic idea using Dot Net Core.
